@@ -2,7 +2,7 @@
 
 Advanced Calculator Project
 
-Hosted Version - https://gallant-dubinsky-351d7b.netlify.com/
+Hosted Version - https://js-calc-example.netlify.com/
 
 The base of this project is based on the tutorial by youtuber PortExe (https://youtu.be/6v4vBXL-qkY).
 
